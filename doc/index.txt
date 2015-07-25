@@ -104,7 +104,7 @@ Vagrant (any OS)
 
 1. Download and install Vagrant http://www.vagrantup.com/
 2. Download and install Virtual Box and VirtualBox Extension Pack https://www.virtualbox.org/wiki/Downloads
-3. Download the Vagrant scripts from `Pylearn2 in a box <https://github.com/ironchief/pylearn2_vagrant>`_
+3. Download the Vagrant scripts from `Pylearn2 in a box <https://github.com/gkb/pylearn2_vagrant>`_
 4. Start the VM by running ``vagrant up`` in the directory from step 3
 
 Dependencies
